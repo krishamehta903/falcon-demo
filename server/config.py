@@ -4,7 +4,7 @@ import uuid
 
 
 class Config:
-    DEFAULT_CONFIG_PATH = '/tmp/asgilook'
+    DEFAULT_CONFIG_PATH = '/tmp/server'
     DEFAULT_UUID_GENERATOR = uuid.uuid4
     DEFAULT_MIN_THUMB_SIZE = 64
 
