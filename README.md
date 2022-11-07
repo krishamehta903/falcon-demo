@@ -45,8 +45,9 @@
         ```
         localhost:8000/images @~/falcon-demo/test.png
         ```
-
 3. Open ./static/index.html in browser to see Websockets and Server Sent Events demo
     TODO: add more detail
+
+
 
 When you are finished working in your virtual environment, use the `deactivate` command.
